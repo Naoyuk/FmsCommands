@@ -51,9 +51,6 @@ COMHEAD=(
   'START ADMINSERVER'
   )
 
-# 起動時にループに入るために変数に代入
-CONT='y'
-
 while [ 0 ]; do
 
 # メニューをecho
