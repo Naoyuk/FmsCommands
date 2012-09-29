@@ -1,7 +1,7 @@
 FmsCommands
 =========
 
-FmsCommands is a CLI tool for FileMaker Server admin console.
+_FmsCommands is a CLI tool for FileMaker Server admin console.
 You can execute some of FileMaker Server command with this tool.
 Using FileMaker Server Adminconsole, it's very slow to boot.
 This tool is very fast, because it is executed by command line simply.
